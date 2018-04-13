@@ -1,4 +1,4 @@
-# Machine-Learning-Notes
+# Machine Learning Notes
 Notes and tutorials on machine learning
 Work on progress:
 
